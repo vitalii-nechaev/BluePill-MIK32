@@ -3,5 +3,6 @@
 В папке КД находятся pdf-файлы документации на плату. Текстовые документы сгенерированы в программе [ДокГОСТ](https://github.com/vitalii-nechaev/DocGOST).  
 Подробнее с проектом можно ознакомиться на [странице проекта](http://xn-----6kccalfmhwcdcrbm1aajnghfrqjce3b0z.xn--p1ai/MCU/MIK32_devboard.html).
 
-![BluePill-MIK32](https://github.com/user-attachments/assets/dbcfbbf9-4380-464f-9e8b-6ca4dde06fcf)
+<img alt="BluePill-MIK32" src="https://github.com/user-attachments/assets/ca99d5c1-f39b-43ad-8904-4f4ff4e120f5" />
+
 
