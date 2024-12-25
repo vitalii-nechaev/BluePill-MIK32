@@ -1,4 +1,0 @@
-(fp_lib_table
-  (version 7)
-  (lib (name "PcbLib")(type "KiCad")(uri "${KIPRJMOD}/PcbLib.pretty")(options "")(descr ""))
-)
